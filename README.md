@@ -18,6 +18,19 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+```
+n1=float(input())
+n2=float(input())
+b=n2
+n2=n1
+n1=b
+print("Swapped values are:",n1,n2)
+
+```
+##OUTPUT:
+![pyth ex01 a op](https://user-images.githubusercontent.com/119394248/215323166-2f1b8307-5838-4221-9689-ae68f393e7d2.png)
+
+
 
 
 
